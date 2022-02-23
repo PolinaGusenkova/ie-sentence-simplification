@@ -1,0 +1,19 @@
+# text = Due to its location in the European Plain, Berlin is influenced by a temperate seasonal climate
+1	Due	Due	ADP	_	_	4	case	_	Translit=due
+2	to	to	ADP	_	_	1	fixed	_	_
+3	its	its	PRON	_	_	4	nmod:poss	_	_
+4	location	location	NOUN	_	_	12	obl	_	_
+5	in	in	ADP	_	_	8	case	_	_
+6	the	the	DET	_	_	8	det	_	_
+7	European	European	PROPN	_	_	8	compound	_	Translit=european
+8	Plain	Plain	PROPN	_	_	4	nmod	_	SpaceAfter=No|Translit=plain
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	Berlin	Berlin	PROPN	_	_	12	nsubj:pass	_	Translit=berlin
+11	is	is	AUX	_	_	12	aux:pass	_	_
+12	influenced	influenced	VERB	_	_	0	root	_	_
+13	by	by	ADP	_	_	17	case	_	_
+14	a	a	DET	_	_	17	det	_	_
+15	temperate	temperate	ADJ	_	_	17	amod	_	_
+16	seasonal	seasonal	ADJ	_	_	17	amod	_	_
+17	climate	climate	NOUN	_	_	12	obl	_	SpaceAfter=No
+

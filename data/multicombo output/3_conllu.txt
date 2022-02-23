@@ -1,0 +1,28 @@
+# text = Berlin's urban area, which has a population of around 4.5 million, is the second most populous urban area in Germany after the Ruhr
+1	Berlin	Berlin	PROPN	_	_	4	nmod:poss	_	SpaceAfter=No|Translit=berlin
+2	's	's	PART	_	_	1	case	_	_
+3	urban	urban	ADJ	_	_	4	amod	_	_
+4	area	area	NOUN	_	_	21	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	which	which	PRON	_	_	7	nsubj	_	_
+7	has	has	VERB	_	_	4	acl:relcl	_	_
+8	a	a	DET	_	_	9	det	_	_
+9	population	population	NOUN	_	_	7	obj	_	_
+10	of	of	ADP	_	_	13	case	_	_
+11	around	around	ADV	_	_	13	advmod	_	_
+12	4.5	4.5	NUM	_	_	13	nummod	_	_
+13	million	million	NUM	_	_	9	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	7	punct	_	_
+15	is	is	AUX	_	_	21	cop	_	_
+16	the	the	DET	_	_	21	det	_	_
+17	second	second	NUM	_	_	21	nummod	_	_
+18	most	most	ADV	_	_	19	advmod	_	_
+19	populous	populous	ADJ	_	_	21	amod	_	_
+20	urban	urban	ADJ	_	_	21	amod	_	_
+21	area	area	NOUN	_	_	0	root	_	_
+22	in	in	ADP	_	_	23	case	_	_
+23	Germany	Germany	PROPN	_	_	21	nmod	_	Translit=germany
+24	after	after	ADP	_	_	26	case	_	_
+25	the	the	DET	_	_	26	det	_	_
+26	Ruhr	Ruhr	PROPN	_	_	21	nmod	_	SpaceAfter=No|Translit=ruhr
+

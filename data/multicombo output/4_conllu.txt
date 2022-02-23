@@ -1,0 +1,32 @@
+# text = The Berlin-Brandenburg capital region has over six million inhabitants and is Germany's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions
+1	The	The	DET	_	_	6	det	_	Translit=the
+2	Berlin	Berlin	PROPN	_	_	6	compound	_	SpaceAfter=No|Translit=berlin
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	Brandenburg	Brandenburg	PROPN	_	_	2	compound	_	Translit=brandenburg
+5	capital	capital	ADJ	_	_	6	amod	_	_
+6	region	region	NOUN	_	_	7	nsubj	_	_
+7	has	has	VERB	_	_	0	root	_	_
+8	over	over	ADV	_	_	9	advmod	_	_
+9	six	six	NUM	_	_	10	nummod	_	_
+10	million	million	NUM	_	_	11	nummod	_	_
+11	inhabitants	inhabitants	NOUN	_	_	7	obj	_	_
+12	and	and	CCONJ	_	_	20	cc	_	_
+13	is	is	AUX	_	_	20	cop	_	_
+14	Germany	Germany	PROPN	_	_	20	nmod:poss	_	SpaceAfter=No|Translit=germany
+15	's	's	PART	_	_	14	case	_	_
+16	third	third	NUM	_	_	20	nummod	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	largest	largest	ADJ	_	_	20	amod	_	_
+19	metropolitan	metropolitan	ADJ	_	_	20	amod	_	_
+20	region	region	NOUN	_	_	7	conj	_	_
+21	after	after	ADP	_	_	30	case	_	_
+22	the	the	DET	_	_	30	det	_	_
+23	Rhine	Rhine	PROPN	_	_	25	compound	_	SpaceAfter=No|Translit=rhine
+24	-	-	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	Ruhr	Ruhr	PROPN	_	_	30	compound	_	Translit=ruhr
+26	and	and	CCONJ	_	_	29	cc	_	_
+27	Rhine	Rhine	PROPN	_	_	29	compound	_	SpaceAfter=No|Translit=rhine
+28	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	Main	Main	PROPN	_	_	25	compound	_	Translit=main
+30	regions	regions	NOUN	_	_	20	nmod	_	SpaceAfter=No
+

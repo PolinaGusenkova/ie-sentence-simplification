@@ -1,0 +1,18 @@
+# text = East Berlin was declared capital of East Germany, while Bonn became the West German capital
+1	East	East	PROPN	_	_	2	compound	_	Translit=east
+2	Berlin	Berlin	PROPN	_	_	4	flat	_	Translit=berlin
+3	was	was	AUX	_	_	4	aux:pass	_	_
+4	declared	declared	VERB	_	_	0	root	_	_
+5	capital	capital	NOUN	_	_	4	nsubj:pass	_	_
+6	of	of	ADP	_	_	8	case	_	_
+7	East	East	PROPN	_	_	8	compound	_	Translit=east
+8	Germany	Germany	PROPN	_	_	5	nmod	_	SpaceAfter=No|Translit=germany
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	while	while	SCONJ	_	_	12	mark	_	_
+11	Bonn	Bonn	PROPN	_	_	12	nsubj	_	Translit=bonn
+12	became	became	VERB	_	_	4	advcl	_	_
+13	the	the	DET	_	_	16	det	_	_
+14	West	West	PROPN	_	_	16	compound	_	Translit=west
+15	German	German	PROPN	_	_	16	compound	_	Translit=german
+16	capital	capital	NOUN	_	_	12	obj	_	SpaceAfter=No
+

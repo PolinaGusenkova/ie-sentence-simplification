@@ -1,0 +1,16 @@
+# text = Berlin is the capital and largest city of Germany by both area and population
+1	Berlin	Berlin	PROPN	_	_	4	nsubj	_	Translit=berlin
+2	is	is	AUX	_	_	4	cop	_	_
+3	the	the	DET	_	_	4	det	_	_
+4	capital	capital	NOUN	_	_	0	root	_	_
+5	and	and	CCONJ	_	_	7	cc	_	_
+6	largest	largest	ADJ	_	_	7	amod	_	_
+7	city	city	NOUN	_	_	4	conj	_	_
+8	of	of	ADP	_	_	9	case	_	_
+9	Germany	Germany	PROPN	_	_	7	nmod	_	Translit=germany
+10	by	by	ADP	_	_	12	case	_	_
+11	both	both	NUM	_	_	12	det	_	_
+12	area	area	NOUN	_	_	4	nmod	_	_
+13	and	and	CCONJ	_	_	14	cc	_	_
+14	population	population	NOUN	_	_	12	conj	_	SpaceAfter=No
+

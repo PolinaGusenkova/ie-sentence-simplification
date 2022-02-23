@@ -1,0 +1,19 @@
+# text = Following German reunification in 1990, Berlin once again became the capital of all of Germany.
+1	Following	Following	VERB	_	_	10	advcl	_	Translit=following
+2	German	German	PROPN	_	_	3	compound	_	Translit=german
+3	reunification	reunification	NOUN	_	_	1	obj	_	_
+4	in	in	ADP	_	_	5	case	_	_
+5	1990	1990	NUM	_	_	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	Berlin	Berlin	PROPN	_	_	10	nsubj	_	Translit=berlin
+8	once	once	ADV	_	_	9	advmod	_	_
+9	again	again	ADV	_	_	10	advmod	_	_
+10	became	became	VERB	_	_	0	root	_	_
+11	the	the	DET	_	_	12	det	_	_
+12	capital	capital	NOUN	_	_	10	obj	_	_
+13	of	of	ADP	_	_	14	case	_	_
+14	all	all	PRON	_	_	12	nmod	_	_
+15	of	of	ADP	_	_	16	case	_	_
+16	Germany	Germany	PROPN	_	_	14	nmod	_	SpaceAfter=No|Translit=germany
+17	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+

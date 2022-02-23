@@ -1,0 +1,26 @@
+# text = One of Germany's sixteen constituent states, Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital
+1	One	One	NUM	_	_	11	nsubj:pass	_	Translit=one
+2	of	of	ADP	_	_	7	case	_	_
+3	Germany	Germany	PROPN	_	_	7	nmod:poss	_	SpaceAfter=No|Translit=germany
+4	's	's	PART	_	_	3	case	_	_
+5	sixteen	sixteen	NUM	_	_	7	nummod	_	_
+6	constituent	constituent	ADJ	_	_	7	amod	_	_
+7	states	states	NOUN	_	_	1	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	Berlin	Berlin	PROPN	_	_	11	nsubj:pass	_	Translit=berlin
+10	is	is	AUX	_	_	11	aux:pass	_	_
+11	surrounded	surrounded	VERB	_	_	0	root	_	_
+12	by	by	ADP	_	_	14	case	_	_
+13	the	the	DET	_	_	14	det	_	_
+14	State	State	NOUN	_	_	11	obl	_	Translit=state
+15	of	of	ADP	_	_	16	case	_	_
+16	Brandenburg	Brandenburg	PROPN	_	_	14	nmod	_	Translit=brandenburg
+17	and	and	CCONJ	_	_	18	cc	_	_
+18	contiguous	contiguous	ADJ	_	_	11	conj	_	_
+19	with	with	ADP	_	_	20	case	_	_
+20	Potsdam	Potsdam	PROPN	_	_	18	obl	_	SpaceAfter=No|Translit=potsdam
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	Brandenburg	Brandenburg	PROPN	_	_	24	nmod:poss	_	SpaceAfter=No|Translit=brandenburg
+23	's	's	PART	_	_	22	case	_	_
+24	capital	capital	NOUN	_	_	20	appos	_	SpaceAfter=No
+

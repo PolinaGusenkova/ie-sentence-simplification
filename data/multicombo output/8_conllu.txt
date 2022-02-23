@@ -1,0 +1,25 @@
+# text = About one-third of the city's area is composed of forests, parks, gardens, rivers, canals and lakes
+1	About	About	ADV	_	_	2	advmod	_	Translit=about
+2	one	one	NUM	_	_	4	nummod	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	third	third	NOUN	_	_	11	nsubj:pass	_	_
+5	of	of	ADP	_	_	9	case	_	_
+6	the	the	DET	_	_	7	det	_	_
+7	city	city	NOUN	_	_	9	nmod:poss	_	SpaceAfter=No
+8	's	's	PART	_	_	7	case	_	_
+9	area	area	NOUN	_	_	4	nmod	_	_
+10	is	is	AUX	_	_	11	aux:pass	_	_
+11	composed	composed	VERB	_	_	0	root	_	_
+12	of	of	ADP	_	_	13	case	_	_
+13	forests	forests	NOUN	_	_	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	parks	parks	NOUN	_	_	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	gardens	gardens	NOUN	_	_	13	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	rivers	rivers	NOUN	_	_	13	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	canals	canals	NOUN	_	_	13	conj	_	_
+22	and	and	CCONJ	_	_	23	cc	_	_
+23	lakes	lakes	NOUN	_	_	13	conj	_	SpaceAfter=No
+

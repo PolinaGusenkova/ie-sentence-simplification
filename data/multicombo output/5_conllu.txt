@@ -1,0 +1,28 @@
+# text = Berlin straddles the banks of the Spree, which flows into the Havel (a tributary of the Elbe) in the western borough of Spandau
+1	Berlin	Berlin	PROPN	_	_	2	nsubj	_	Translit=berlin
+2	straddles	straddles	VERB	_	_	0	root	_	_
+3	the	the	DET	_	_	4	det	_	_
+4	banks	banks	NOUN	_	_	2	obj	_	_
+5	of	of	ADP	_	_	7	case	_	_
+6	the	the	DET	_	_	7	det	_	_
+7	Spree	Spree	PROPN	_	_	4	nmod	_	SpaceAfter=No|Translit=spree
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	which	which	PRON	_	_	10	nsubj	_	_
+10	flows	flows	VERB	_	_	4	acl:relcl	_	_
+11	into	into	ADP	_	_	13	case	_	_
+12	the	the	DET	_	_	13	det	_	_
+13	Havel	Havel	PROPN	_	_	10	obl	_	Translit=havel
+14	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	a	a	DET	_	_	16	det	_	_
+16	tributary	tributary	NOUN	_	_	13	appos	_	_
+17	of	of	ADP	_	_	19	case	_	_
+18	the	the	DET	_	_	19	det	_	_
+19	Elbe	Elbe	PROPN	_	_	16	nmod	_	SpaceAfter=No|Translit=elbe
+20	)	)	PUNCT	_	_	16	punct	_	_
+21	in	in	ADP	_	_	24	case	_	_
+22	the	the	DET	_	_	24	det	_	_
+23	western	western	ADJ	_	_	24	amod	_	_
+24	borough	borough	NOUN	_	_	2	obl	_	_
+25	of	of	ADP	_	_	26	case	_	_
+26	Spandau	Spandau	PROPN	_	_	24	nmod	_	SpaceAfter=No|Translit=spandau
+
